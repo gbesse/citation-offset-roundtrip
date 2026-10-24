@@ -1,0 +1,17 @@
+{
+  "text": "A café ☕ and 🚀.",
+  "offset_encoding": "utf16",
+  "annotations": [
+    {
+      "id": "rocket",
+      "start": 13,
+      "end": 15,
+      "quote": "🚀"
+    },
+    {
+      "id": "split",
+      "start": 14,
+      "end": 15
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Détecter les citations décalées entre octets UTF-8 et unités UTF-16', 'en': 'Detect citation offsets shifted between UTF-8 bytes and UTF-16 units', 'es': 'Detectar citas desplazadas entre bytes UTF-8 y unidades UTF-16'}

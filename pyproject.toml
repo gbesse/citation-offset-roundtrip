@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "citation-offset-roundtrip"
+version = "0.1.0a1"
+description = "FR: Détecter les citations décalées entre octets UTF-8 et unités UTF-16 | EN: Detect citation offsets shifted between UTF-8 bytes and UTF-16 units | ES: Detectar citas desplazadas entre bytes UTF-8 y unidades UTF-16"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+citation-offset-roundtrip = "citation_offset_roundtrip.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["citation_offset_roundtrip*"]
