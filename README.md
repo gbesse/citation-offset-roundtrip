@@ -71,5 +71,5 @@ Pruebas de dominio, casos límite e interfaz FR/EN/ES. CI prueba Python 3.11/3.1
 
 ## Sources / Fuentes
 
-- https://github.com/pydantic/magpie/issues/3455
+- https://github.com/yetone/magpie/issues/3455
 - https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-3/
